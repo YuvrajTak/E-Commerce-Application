@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "547752155781",
+    "firebase_url": "https://shopping-app-cae66-default-rtdb.firebaseio.com",
+    "project_id": "shopping-app-cae66",
+    "storage_bucket": "shopping-app-cae66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547752155781:android:7f629f66f41240f63267ec",
+        "android_client_info": {
+          "package_name": "com.app.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547752155781-c759on6rpcrepjhpu1l7chgfoqjepna0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5V_FJemxPr6KjUEdI541GHW30q5TJvRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547752155781-c759on6rpcrepjhpu1l7chgfoqjepna0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547752155781:android:1aca771f8921c7373267ec",
+        "android_client_info": {
+          "package_name": "com.example.ekart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547752155781-c759on6rpcrepjhpu1l7chgfoqjepna0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5V_FJemxPr6KjUEdI541GHW30q5TJvRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547752155781-c759on6rpcrepjhpu1l7chgfoqjepna0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
